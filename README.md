@@ -32,7 +32,7 @@ A full-stack movie ticket booking platform allowing users to explore movies, vie
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/QuickTickets
+git clone  https://github.com/AvinashPatel309/QuickTickets-Movie-Ticket-Booking-Website.git
 ```
 
 2. **Install dependencies**
